@@ -1,4 +1,4 @@
-package DE.DepEmployeJPA;
+package DE.DepEmployeJPA; 
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
