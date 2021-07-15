@@ -1,4 +1,4 @@
-package fr.univ_amu.iut.depemployeJPA;
+package depemployeJPA;
 
 import javax.persistence.*;
 
