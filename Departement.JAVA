@@ -1,4 +1,4 @@
-package DepEmployeJPA;
+package DE.DepEmployeJPA;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
