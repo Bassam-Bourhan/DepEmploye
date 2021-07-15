@@ -1,4 +1,4 @@
-package depemployeJPA;
+package DE.depemployeJPA;
 
 import javax.persistence.*;
 
